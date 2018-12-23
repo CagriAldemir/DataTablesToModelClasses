@@ -1,0 +1,18 @@
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\bin\Debug\Data to Class.exe.config
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\bin\Debug\Data to Class.exe
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\bin\Debug\Data to Class.pdb
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data_to_Class.Properties.Resources.resources
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.exe
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.pdb
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data_to_Class.MainForm.resources
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\bin\Debug\Data to Class.exe.config
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\bin\Debug\Data to Class.exe
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\bin\Debug\Data to Class.pdb
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.csprojResolveAssemblyReference.cache
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data_to_Class.MainForm.resources
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data_to_Class.Properties.Resources.resources
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.csproj.GenerateResource.Cache
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.exe
+D:\ROOT\Projects\VisualStudio\Projects\Data to Class\Data to Class\obj\Debug\Data to Class.pdb
